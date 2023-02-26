@@ -1,0 +1,8 @@
+{
+  "name": "serverless-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dineshtamang14/Serverless-Lambda.git",
+  "author": "Dinesh Tamang <dineshtamang7263@gmail.com>",
+  "license": "MIT"
+}
